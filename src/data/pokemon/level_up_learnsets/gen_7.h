@@ -7235,7 +7235,7 @@ static const struct LevelUpMove sTyranitarLevelUpLearnset[] = {
 
 #if P_FAMILY_LUGIA
 static const struct LevelUpMove sLugiaLevelUpLearnset[] = {
-    LEVEL_UP_MOVE( 1, MOVE_WHIRLWIND),
+    LEVEL_UP_MOVE( 1, MOVE_AEROBLAST),
     LEVEL_UP_MOVE( 1, MOVE_WEATHER_BALL),
     LEVEL_UP_MOVE( 9, MOVE_GUST),
     LEVEL_UP_MOVE(15, MOVE_DRAGON_RUSH),
