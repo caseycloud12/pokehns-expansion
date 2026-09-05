@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - upcoming
+      - 2.0.4DerpLugs
   pull_request:
 
 env:
